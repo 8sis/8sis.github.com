@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 8sis • 自由的开发者!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
